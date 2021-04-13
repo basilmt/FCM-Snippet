@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013987729497",
+    "firebase_url": "https://mad3-by-m3-default-rtdb.firebaseio.com",
+    "project_id": "mad3-by-m3",
+    "storage_bucket": "mad3-by-m3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013987729497:android:285536a5c12ffe36311148",
+        "android_client_info": {
+          "package_name": "com.revolt.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013987729497-oko63ls0ockglk1g36af1kb6240t9a78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFPlWO4m5Qk3Y14I7wd1FOfrBo-f_nJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013987729497-oko63ls0ockglk1g36af1kb6240t9a78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
