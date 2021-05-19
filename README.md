@@ -22,5 +22,8 @@ packagingOptions {
     .
     .
     .
+    
+    implementation 'com.android.volley:volley:1.2.0'
+    implementation 'com.google.auth:google-auth-library-oauth2-http:0.25.3'
 }
 ```
