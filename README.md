@@ -16,7 +16,7 @@ Replace the token value with the token of the person whom you want to sent the n
 ### Important : In module level build.gradle file
 ```gradle
 android{
-packagingOptions {
+    packagingOptions {
         exclude 'META-INF/DEPENDENCIES'
     }
     .
